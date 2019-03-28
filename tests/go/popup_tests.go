@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/fabioberger/chrome"
 	QUnit "github.com/fabioberger/qunit"
 	"github.com/gopherjs/gopherjs/js"
+	"github.com/kooksee/go-chrome"
 	"honnef.co/go/js/dom"
 )
 

@@ -11,7 +11,7 @@ import (
 	"honnef.co/go/js/dom"
 	"honnef.co/go/js/xhr"
 
-	"github.com/fabioberger/chrome"
+	"github.com/kooksee/go-chrome"
 )
 
 var (

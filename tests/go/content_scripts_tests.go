@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/fabioberger/chrome"
+	"github.com/kooksee/go-chrome"
 )
 
 func main() {
