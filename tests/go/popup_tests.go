@@ -118,7 +118,7 @@ func main() {
 	cookieInfo := chrome.Object{
 		"url":   "http://www.google.com",
 		"name":  "testing",
-		"value": "testvalue",
+		"value": "test_value",
 	}
 	c.Cookies.Set(cookieInfo, func(cookie chrome.Cookie) {
 		QUnit.Test("Cookies.Set()", func(assert QUnit.QUnitAssert) {
